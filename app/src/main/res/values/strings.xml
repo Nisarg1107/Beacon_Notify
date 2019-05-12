@@ -1,0 +1,9 @@
+<resources xmlns:http="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Notification</string>
+    <string name="linktosite">
+        <a href= "http://www.bvmengineering.ac.in/">BVM Engineering College</a>
+    </string>
+    <string name="linktoform">
+        <a href= "https://docs.google.com/forms/d/e/1FAIpQLSdJX5WBAw1wRMVL2m-gzrgOVCIjg-HaevykJWlnSffu3OdSsg/viewform">Register Here</a>
+    </string>
+</resources>
